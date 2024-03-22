@@ -1,7 +1,7 @@
-# Welcome to team3 repository
+# Welcome to OUR PROJECT
 ### You will see source code "ONLINE SHOPPING PROJECT":
-* Brand Ambassador: Tran Viet Anh
-* Welcome to Asion
+* Team leader: Pham Hung Anh
+* Welcome to Asion Shopping
 * ...
 
 #### © 2024 team3-onlineshopping
